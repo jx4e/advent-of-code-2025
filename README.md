@@ -11,7 +11,7 @@ To run the solutions, save your puzzle input files in the `inputs` directory usi
 |3|⭐⭐|
 |4|⭐⭐|
 |5|⭐⭐|
-|6|☐☐|
+|6|⭐⭐|
 |7|☐☐|
 |8|☐☐|
 |9|☐☐|
